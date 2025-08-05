@@ -1,0 +1,4 @@
+# Ignore demos, videos and test directory
+demos/
+videos/
+test/
