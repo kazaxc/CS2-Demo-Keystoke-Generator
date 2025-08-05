@@ -5,6 +5,7 @@ This tool is designed to generate videos of the keystroke information that is ex
 Different players can be selected to generate for or you can generate all 10 players in the match.
 
 Requirements:
-    - demoparser2
-    - numpy
-    - opencv2
+
+- demoparser2
+- numpy
+- opencv2
